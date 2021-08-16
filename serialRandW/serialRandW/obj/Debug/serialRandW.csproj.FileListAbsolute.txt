@@ -1,0 +1,10 @@
+C:\Users\mahit\source\repos\serialRandW\serialRandW\bin\Debug\serialRandW.exe.config
+C:\Users\mahit\source\repos\serialRandW\serialRandW\bin\Debug\serialRandW.exe
+C:\Users\mahit\source\repos\serialRandW\serialRandW\bin\Debug\serialRandW.pdb
+C:\Users\mahit\source\repos\serialRandW\serialRandW\obj\Debug\serialRandW.csproj.AssemblyReference.cache
+C:\Users\mahit\source\repos\serialRandW\serialRandW\obj\Debug\serialRandW.Form1.resources
+C:\Users\mahit\source\repos\serialRandW\serialRandW\obj\Debug\serialRandW.Properties.Resources.resources
+C:\Users\mahit\source\repos\serialRandW\serialRandW\obj\Debug\serialRandW.csproj.GenerateResource.cache
+C:\Users\mahit\source\repos\serialRandW\serialRandW\obj\Debug\serialRandW.csproj.CoreCompileInputs.cache
+C:\Users\mahit\source\repos\serialRandW\serialRandW\obj\Debug\serialRandW.exe
+C:\Users\mahit\source\repos\serialRandW\serialRandW\obj\Debug\serialRandW.pdb
